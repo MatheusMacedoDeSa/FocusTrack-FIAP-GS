@@ -1,7 +1,7 @@
 ## ⚙️ Como Rodar o Projeto
 
 1. Clone o repositório:
-   `git clone https://github.com/SEU_USUARIO/FocusTrack-FIAP-GS.git`
+   `git clone https://github.com/MatheusMacedoDeSa/FocusTrack-FIAP-GS.git`
 2. Navegue até a pasta do projeto:
    `cd FocusTrack-FIAP-GS`
 3. Instale as dependências:
